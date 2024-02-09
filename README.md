@@ -1,4 +1,4 @@
-![logo](https://github.com/rohitinu6/Rohit-Dubey/blob/main/Github%20banner.png)
+![logo](https://github.com/rohitinu6/rohitinu6/blob/main/Github%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Rohit Dubey</h1>
 <h3 align="center">Data Enthusiast from India</h3>
