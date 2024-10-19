@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitinu6&label=Profile%20views&color=0e75b6&style=flat&base=3346" alt="rohitinu6" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>🌱 I’m currently learning React<br>👨‍💻 All of my projects are available at https://github.com/rohitinu6<br>📫 How to reach me rohitinu6@gmail.com
+🔭 I’m currently working on Web Development<br>🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)<br>👨‍💻 All of my projects are available at https://github.com/rohitinu6<br>📫 How to reach me rohitinu6@gmail.com
 
 
 ## 🌐 Socials:
