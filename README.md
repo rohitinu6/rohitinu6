@@ -17,13 +17,13 @@
 
 ### **👨‍💻 Programming Languages**
 <p >
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white">
   <img src="https://img.shields.io/badge/sql-%23000.svg?style=flat&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white">
 </p>
 
 ### **🛠 Frameworks & Libraries**
