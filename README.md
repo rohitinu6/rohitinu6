@@ -8,7 +8,6 @@
 ## 🌐 Connect with Me:
 <p> 
   <a href="https://linkedin.com/in/rohit-dubey-d"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" ></a> 
-  <a href="https://instagram.com/rohit_dubey_003"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a> 
   <a href="https://github.com/rohitinu6"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"></a> 
   <a href="https://tinyurl.com/dubeyrohit"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white" alt="Portfolio"></a> 
   <a href="https://x.com/rohitdubey003"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X"></a> 
