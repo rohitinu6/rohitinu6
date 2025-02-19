@@ -46,7 +46,7 @@
 ### **⚡ DevOps & Tools**
 <p >
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/github%20-%232671E5.svg?style=flat&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white">
 </p>
