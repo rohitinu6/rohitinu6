@@ -9,7 +9,7 @@
 <p> 
   <a href="https://linkedin.com/in/rohit-dubey-d"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" ></a> 
   <a href="https://github.com/rohitinu6"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"></a> 
-  <a href="https://tinyurl.com/dubeyrohit"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white" alt="Portfolio"></a> 
+  <a href="https://rohitinu6.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white" alt="Portfolio"></a> 
   <a href="https://x.com/rohitdubey003"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X"></a> 
 </p>
 
@@ -17,33 +17,27 @@
 
 ### **👨‍💻 Programming Languages**
 <p >
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/sql-%23000.svg?style=flat&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white">
-  <img src="https://img.shields.io/badge/sql-%23000.svg?style=flat&logo=sqlite&logoColor=white">
 </p>
 
 ### **🛠 Frameworks & Libraries**
 <p >
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black">
+  <img src="https://img.shields.io/badge/seaborn-%23ffffff.svg?style=flat&logo=seaborn&logoColor=black">
   <img src="https://img.shields.io/badge/scikit-learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black">
-  <img src="https://img.shields.io/badge/seaborn-%23ffffff.svg?style=flat&logo=seaborn&logoColor=black">
-</p>
-
-### **📊 Data Science & Machine Learning**
-<p >
   <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit-learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white">
 </p>
 
-### **🗄 Databases & Cloud**
+### **🗄 Databases**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white">
