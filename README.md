@@ -21,18 +21,13 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white">
   <img src="https://img.shields.io/badge/sql-%23000.svg?style=flat&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white">
 </p>
 
 ### **🛠 Frameworks & Libraries**
 <p >
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/scikit-learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white">
@@ -40,7 +35,6 @@
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black">
   <img src="https://img.shields.io/badge/seaborn-%23ffffff.svg?style=flat&logo=seaborn&logoColor=black">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
 </p>
 
 ### **📊 Data Science & Machine Learning**
@@ -53,8 +47,6 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white">
 </p>
 
 ### **⚡ DevOps & Tools**
@@ -63,11 +55,6 @@
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-%23000.svg?style=flat&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Anaconda-%234A8B8C.svg?style=flat&logo=anaconda&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
 </p>
 
 # 📊 GitHub Stats:
