@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white">
 </p>
 
-### **⚡ DevOps & Tools**
+### **⚡ Tools**
 <p >
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github%20-%232671E5.svg?style=flat&logo=githubactions&logoColor=white">
